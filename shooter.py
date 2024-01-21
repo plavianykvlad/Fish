@@ -15,7 +15,7 @@ img_asteroid = "asteroid.png"
 
 lost = 0
 score = 0
-max_lost = 3
+max_lost = 6
 goal = 10
 life = 3
 
